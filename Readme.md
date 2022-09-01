@@ -9,7 +9,6 @@ Expected features:
 5. User can remove existing point.
 
 Tech stack:
-* Language: JavaScript (or TypeScript if possible)
+* Language: TypeScript
 * UI library: React
-* Map engine: Leaflet (of course you can use Leaflet's React integration - React Leaflet) or OpenLayers
-* Other aspects of the app's tech stack - feel free to choose what you want.
+* Map engine: Leaflet 
